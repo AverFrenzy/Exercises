@@ -1,0 +1,1 @@
+Some easy exercises with arrays, functions, recursion.
